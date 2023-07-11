@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522477664879",
+    "project_id": "androidhoctap",
+    "storage_bucket": "androidhoctap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522477664879:android:102439a05fc1626efaab9a",
+        "android_client_info": {
+          "package_name": "com.hqsoft.esales.doancuoiky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522477664879-nb8mcdm39dib1sitrgvrq74vpqhhmesb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBna9rDYegXe3ADdY7Mmu18b8XOGrEHlok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522477664879-nb8mcdm39dib1sitrgvrq74vpqhhmesb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
